@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
  ### ☕ Olá! eu sou o Diego Neves! 👋
  
- 
 
 [![Linkedin badge](https://img.shields.io/badge/-Linkedin-blue?flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-neves-224208177/)](https://www.linkedin.com/in/diego-neves-224208177/) [![Gmail badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoftoutlook&logoColor=white&label=Diego%20Neves&link=mailto%3Aneves.diegoalex%40outlook.com
 )](mailto:neves.diegoalex@outlook.com)
@@ -33,11 +32,11 @@ Here are some ideas to get you started:
 </div>
  
  <div style="display: inline_block"><br>
-  <img align="center" alt="Diego-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Diego-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
-  <img align="center" alt="Diego-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">  
-  <img align="center" alt="Diego-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Diego-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Diego-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="Diego-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
+  <img align="center" alt="Diego-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+  <img align="center" alt="Diego-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
+  <img align="center" alt="Diego-Kubernetes" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   
 ![Snake animation](https://github.com/diegosneves/diegosneves/blob/output/github-contribution-grid-snake.svg)
 </div> 
