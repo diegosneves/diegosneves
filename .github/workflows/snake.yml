@@ -18,7 +18,9 @@ jobs:
         id: snake-gif
         with:
           github_user_name: diegosneves
-          svg_out_path: github-contribution-grid-snake.svg
+          svg_out_path:
+            github-contribution-grid-snake2.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
           build_dir: dist
 
       # Adicione o código para criar o diretório 'dist'
