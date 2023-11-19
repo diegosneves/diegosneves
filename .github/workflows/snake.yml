@@ -54,7 +54,7 @@ jobs:
       # Snake Animation
       - name: Determine GitHub theme
         id: theme
-        run: echo "::set-output name=theme::$(echo ${{ github.event.client_payload.theme }} || echo 'light')"
+        run: echo "::set-output name=theme::$(echo ${{ github.event.client_payload.theme }} || echo 'dark')"
 
       - name: Set Snake SVG path
         id: set-snake-svg
