@@ -30,20 +30,19 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegosneves&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
- <div style="display: inline_block"><br>
+<div style="display:inline-block"><br>
   <img align="center" alt="Diego-Spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img align="center" alt="Diego-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  
   <img align="center" alt="Diego-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
   <img align="center" alt="Diego-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-  <img align="center" alt="Diego-Kubernetes" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  <img align="center" alt="Diego-Kubernetes" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>
 
-[//]: # (![Snake animation]&#40;https://github.com/diegosneves/diegosneves/blob/output/github-contribution-grid-snake.svg&#41;)
+  <div>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
+</div>
 
-</div>
-<div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diegosneves/diegosneves/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
