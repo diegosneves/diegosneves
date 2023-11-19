@@ -59,7 +59,8 @@ jobs:
       - name: Set Snake SVG path
         id: set-snake-svg
         run: |
-          if [ "${{ steps.theme.outputs.theme }}" == "dark" ]; then
+          theme="${{ steps.theme.outputs.theme }}"
+          if [ "$theme" == "dark" ]; then
             echo "::set-output name=svg_path::github-contribution-grid-snake-dark.svg?palette=github-dark"
           else
             echo "::set-output name=svg_path::github-contribution-grid-snake.svg"
