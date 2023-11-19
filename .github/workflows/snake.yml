@@ -20,6 +20,11 @@ jobs:
          svg_out_path: github-contribution-grid-snake.svg
          build_dir: dist
 
+     - name: Debug
+       run: ls -R
+       working-directory: dist
+
+
      - uses: crazy-max/ghaction-github-pages@v3.1.0
        with:
          target_branch: output
