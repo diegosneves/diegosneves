@@ -19,8 +19,8 @@ Here are some ideas to get you started:
  
  
 
-[![Linkedin badge](https://img.shields.io/badge/-Linkedin-blue?flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-neves-224208177/)](https://www.linkedin.com/in/diego-neves-224208177/) [![Outlook badge]([https://img.shields.io/badge/microsoftoutlook](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoftoutlook&logoColor=white&link=mailto%3Aneves.diegoalex%40outlook.com
-))](mailto:neves.diegoalex@outlook.com)
+[![Linkedin badge](https://img.shields.io/badge/-Linkedin-blue?flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-neves-224208177/)](https://www.linkedin.com/in/diego-neves-224208177/) [![Gmail badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoftoutlook&logoColor=white&label=Diego%20Neves&link=mailto%3Aneves.diegoalex%40outlook.com
+)](mailto:neves.diegoalex@outlook.com)
 
 - ⭐ Habilidades: Java, SpringBoot, Python, Kubernets, Docker, GitActions, Mongo, SQL.
 - 🌱 Atualmente estudando Arquitetura de Software e Analise de dados com Python
