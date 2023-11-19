@@ -21,11 +21,12 @@ jobs:
           svg_out_path: github-contribution-grid-snake.svg
           build_dir: dist
 
-      - name: Debug
-        run: ls -R
-
+      # Adicione o código para criar o diretório 'dist'
       - name: Create dist directory
         run: mkdir -p dist
+
+      - name: Debug
+        run: ls -R
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
