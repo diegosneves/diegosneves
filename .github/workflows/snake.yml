@@ -19,7 +19,7 @@ jobs:
         with:
           github_user_name: diegosneves
           svg_out_path: |
-            github-contribution-grid-snake2.svg
+            github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=github-dark
           build_dir: dist
 
