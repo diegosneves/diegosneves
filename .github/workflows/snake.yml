@@ -9,10 +9,9 @@ on:
   workflow_dispatch:
   
   # run on every push on the master branch
-  push:
-    branches:
-    - main
-  
+  #push:
+   # branches:
+    #- main
 
 jobs:
   generate:
@@ -24,7 +23,7 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: diegosneves
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
