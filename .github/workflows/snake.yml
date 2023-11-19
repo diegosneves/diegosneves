@@ -1,3 +1,42 @@
+#name: generate animation
+#
+#on:
+#  # run automatically every 12 hours
+#  schedule:
+#    - cron: "0 12 * * *"
+#  # allows to manually run the job at any time
+#  workflow_dispatch:
+#
+#jobs:
+#  build:
+#    name: Jobs to update datas
+#    runs-on: ubuntu-latest
+#    steps:
+#
+#      # Snake Animation
+#      - uses: Platane/snk@master
+#        id: snake-gif
+#        with:
+#          github_user_name: diegosneves
+#          svg_out_path: |
+#            github-contribution-grid-snake.svg
+#            github-contribution-grid-snake-dark.svg?palette=github-dark
+#          build_dir: dist
+#
+#      # Adicione o código para criar o diretório 'dist'
+#      - name: Create dist directory
+#        run: mkdir -p dist
+#
+#      - name: Debug
+#        run: ls -R
+#
+#      - uses: crazy-max/ghaction-github-pages@v3.1.0
+#        with:
+#          target_branch: output
+#          build_dir: dist
+#        env:
+#          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+
 name: generate animation
 
 on:
@@ -12,21 +51,30 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-
       # Snake Animation
+      - name: Determine GitHub theme
+        id: theme
+        run: echo "::set-output name=theme::$(echo ${{ github.event.client_payload.theme }} || echo 'light')"
+
+      - name: Set Snake SVG path
+        id: set-snake-svg
+        run: |
+          if [ "${{ steps.theme.outputs.theme }}" == "dark" ]; then
+            echo "::set-output name=svg_path::github-contribution-grid-snake-dark.svg?palette=github-dark"
+          else
+            echo "::set-output name=svg_path::github-contribution-grid-snake.svg"
+          fi
+
       - uses: Platane/snk@master
-        id: snake-gif
         with:
           github_user_name: diegosneves
-          svg_out_path: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
-          build_dir: dist
+          svg_out_path: ${{ steps.set-snake-svg.outputs.svg_path }}
 
       # Adicione o código para criar o diretório 'dist'
       - name: Create dist directory
         run: mkdir -p dist
 
+      # Adicione o bloco Debug aqui
       - name: Debug
         run: ls -R
 
