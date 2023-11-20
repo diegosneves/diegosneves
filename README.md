@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### ☕ Olá! eu sou o Diego Neves! 👋
 
 [![Linkedin badge](https://img.shields.io/badge/-Linkedin-blue?flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-neves-224208177/)](https://www.linkedin.com/in/diego-neves-224208177/) [![Gmail badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoftoutlook&logoColor=white&label=Diego%20Neves&link=mailto%3Aneves.diegoalex%40outlook.com
-)](mailto:neves.diegoalex@outlook.com)
+)](mailto:neves.diegoalex@outlook.com) [![wakatime](https://wakatime.com/badge/user/018bea20-dbbc-48e2-b101-5415903acf5a.svg)](https://wakatime.com/@018bea20-dbbc-48e2-b101-5415903acf5a)
 
 - ⭐ Habilidades: Java, SpringBoot, Python, Kubernets, Docker, GitActions, Mongo, SQL.
 - 🌱 Atualmente estudando Arquitetura de Software e Analise de dados com Python
