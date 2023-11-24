@@ -1,28 +1,34 @@
-<!-- ### Hi there 👋 -->
-
-<!--
-**diegosneves/diegosneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-### ☕ Olá! eu sou o Diego Neves! 👋
+# ☕ Olá! eu sou o Diego Neves! 👋
 
 [![Linkedin badge](https://img.shields.io/badge/-Linkedin-blue?flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-neves-224208177/)](https://www.linkedin.com/in/diego-neves-224208177/) [![Gmail badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoftoutlook&logoColor=white&label=Diego%20Neves&link=mailto%3Aneves.diegoalex%40outlook.com
 )](mailto:neves.diegoalex@outlook.com) [![wakatime](https://wakatime.com/badge/user/018bea20-dbbc-48e2-b101-5415903acf5a.svg)](https://wakatime.com/@018bea20-dbbc-48e2-b101-5415903acf5a)
 
-- ⭐ Habilidades: Java, SpringBoot, Python, Kubernets, Docker, GitActions, Mongo, SQL.
-- 🌱 Atualmente estudando Arquitetura de Software e Analise de dados com Python
-- 🔭 Atuo com desenvolvedor Java backend.
+## Sobre Mim
+
+🚀 Desenvolvedor apaixonado com mais de três anos de experiência desde a transição de carreira para a área de tecnologia.
+
+📚 Durante esse período, tenho me dedicado a aprimorar minhas habilidades em:
+
+- 🏗️ **Arquitetura de Software:** Explorando conceitos de DevOps, design arquitetônico e desenvolvimento eficiente.
+
+- 🐍 **Análise de Dados com Python:** Estudo esta poderosa linguagem para aprimorar minha capacidade de lidar com logs de aplicações e extrair insights valiosos.
+
+🤓 Sempre em busca de novos conhecimentos e desafios!
+
+## Interesses e Habilidades
+
+- Desenvolvimento Backend em Java
+  - versões: 8, 11, 17
+- Frameworks: Spring
+- Ferramentas e Práticas DevOps
+- Bancos de Dados: MongoDB, MySQL
+- Containers e Orquestração: Docker, Kubernetes
+- Testes Automatizados: JUnit, Mockito
+- Controle de Versão: Git, GitHub
+
+## Aprendizado Atual
+
+Atualmente, estou explorando cursos relacionados a arquitetura de software e analises de dados para ampliar meu conjunto de habilidades.
 
 <div align="center">
   <a href="https://github.com/diegosneves">
