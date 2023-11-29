@@ -1,3 +1,4 @@
+
 # ☕ Olá! eu sou o Diego Neves! 👋
 
 [![Linkedin badge](https://img.shields.io/badge/-Linkedin-blue?flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-neves-224208177/)](https://www.linkedin.com/in/diego-neves-224208177/) [![Gmail badge](https://img.shields.io/badge/-Outlook-blue?style=flat-square&logo=Microsoftoutlook&logoColor=white&label=Diego%20Neves&link=mailto%3Aneves.diegoalex%40outlook.com
@@ -14,6 +15,8 @@
 - 🐍 **Análise de Dados com Python:** Estudo esta poderosa linguagem para aprimorar minha capacidade de lidar com logs de aplicações e extrair insights valiosos.
 
 🤓 Sempre em busca de novos conhecimentos e desafios!
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ## Interesses e Habilidades
 
