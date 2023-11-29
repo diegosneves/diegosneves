@@ -26,9 +26,11 @@
 - Testes Automatizados: JUnit, Mockito
 - Controle de Versão: Git, GitHub
 
-## Aprendizado Atual
+### Em Busca da Excelência: Minha Jornada no Desenvolvimento de Software
 
-Atualmente, estou explorando cursos relacionados a arquitetura de software e analises de dados para ampliar meu conjunto de habilidades.
+Minha jornada profissional é guiada pela busca incansável pela excelência no desenvolvimento de softwares. Acredito que a aprendizagem contínua e o constante aprimoramento técnico são pilares fundamentais nesse caminho. Estou confiante de que, ao integrar uma equipe, poderei não apenas contribuir para o sucesso coletivo, mas também desempenhar um papel significativo no alcance dos objetivos dos clientes.
+
+---
 
 <div align="center">
   <a href="https://github.com/diegosneves">
