@@ -14,7 +14,7 @@
 
 ## Sobre Mim
 
-🚀 Desenvolvedor apaixonado com mais de três anos de experiência desde a transição de carreira para a área de tecnologia.
+🚀 Desenvolvedor apaixonado com mais de 5 anos de experiência desde a transição de carreira para a área de tecnologia.
 
 📚 Durante esse período, tenho me dedicado a aprimorar minhas habilidades em:
 
@@ -29,13 +29,13 @@
 ## Interesses e Habilidades
 
 - Desenvolvimento Backend em Java
-  - versões: 8, 11, 17
-- Frameworks: Spring
+  - versões: 8, 11, 17, 21, 25
+- Frameworks: Spring, Quarkus
 - Ferramentas e Práticas DevOps
 - Bancos de Dados: MongoDB, MySQL
 - Containers e Orquestração: Docker, Kubernetes
-- Testes Automatizados: JUnit, Mockito
-- Controle de Versão: Git, GitHub
+- Testes Automatizados: JUnit, Mockito, AssertJ
+- Controle de Versão: Git, GitHub, GitLab
 
 ### Em Busca da Excelência: Minha Jornada no Desenvolvimento de Software
 
